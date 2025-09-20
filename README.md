@@ -2,7 +2,7 @@
 ## Experimental Blueprint and Implementation Guide
 
 ### Research Question
-**Does adding a critic persona scaffold to system prompts produce measurably improved reasoning quality, assumption recognition, and alternative consideration compared to default model behavior?**
+**Does adding a critic scaffold to system prompts produce measurably improved reasoning quality, assumption recognition, and alternative consideration compared to default model behavior?**
 
 ### Experimental Design Overview
 
