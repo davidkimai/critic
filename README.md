@@ -1,4 +1,4 @@
-# System Prompt Scaffold Study: Critic Persona Effects
+# System Prompt Study: Critic Scaffold Effects
 ## Experimental Blueprint and Implementation Guide
 
 ### Research Question
