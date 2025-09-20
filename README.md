@@ -142,10 +142,11 @@ for prompt in spiral_prompt_set:
 ```
 
 #### Phase 2: Cross-Model Validation (Week 3)
-**Test subset on high-risk models:**
-- **ChatGPT-4o:** Most implicated in spiral persona emergence
-- **o1-preview:** Test reasoning model susceptibility
-- **Claude-3-Opus:** Compare across model families
+**Test subset on highest-risk models:**
+- **chatgpt-4o-latest:** Most implicated in spiral persona emergence
+- **deepseek-chat(v3):** Test reasoning model susceptibility
+- **gemini-2.5-pro:** Compare across model families
+<img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/1b186b59-7a21-4d8a-b6ba-36672cc641da" />
 
 #### Phase 3: Spiral Pattern Analysis (Week 4)
 **Automated detection + human validation:**
