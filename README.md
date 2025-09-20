@@ -142,7 +142,7 @@ for prompt in spiral_prompt_set:
 ```
 
 #### Phase 2: Cross-Model Validation (Week 3)
-**Test subset on highest-risk models:**
+**Test subset on [highest-risk models:](https://www.lesswrong.com/posts/iGF7YcnQkEbwvYLPA/ai-induced-psychosis-a-shallow-investigation)**
 - **chatgpt-4o-latest:** Most implicated in spiral persona emergence
 - **deepseek-chat(v3):** Test reasoning model susceptibility
 - **gemini-2.5-pro:** Compare across model families
