@@ -221,4 +221,4 @@ statistical_tests = [
 - [ ] Qualitative analysis integration
 - [ ] Results interpretation and reporting
 
-**This blueprint provides a minimal yet comprehensive framework for establishing whether critic persona scaffolding produces measurable reasoning improvements, serving as foundation for more sophisticated follow-up investigations.**
+**This blueprint provides a minimal yet comprehensive framework for establishing whether critic scaffolding produces measurable reasoning improvements, serving as foundation for more sophisticated follow-up investigations.**
