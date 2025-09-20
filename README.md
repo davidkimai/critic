@@ -91,7 +91,7 @@ for problem in problem_set:
         model="claude-3.5-sonnet",
         system_prompt=None,
         user_prompt=problem,
-        temperature=0.7
+        temperature=1.0
     )
     
     # Treatment condition  
@@ -99,7 +99,7 @@ for problem in problem_set:
         model="claude-3.5-sonnet", 
         system_prompt=critic_scaffold,
         user_prompt=problem,
-        temperature=0.7
+        temperature=1.0
     )
     
     # Store responses with metadata
