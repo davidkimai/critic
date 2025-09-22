@@ -108,7 +108,7 @@ response_patterns = {
 - **Proof of concept** for system prompt behavioral modification
 - **Baseline data** for future more comprehensive studies
 - **Method development** for testing AI response patterns
-- **Pattern documentation** of scaffold effects on specific prompt types
+- **Pattern documentation** of system prompt effects on specific prompt types
 
 #### Potential Applications (If Validated)
 - Input for AI safety research on interaction design
@@ -159,10 +159,10 @@ response_patterns = {
 - Test across multiple AI model architectures
 - Develop validated measurement instruments
 - Conduct multi-turn conversation studies
-- Investigate long-term scaffold persistence
+- Investigate long-term system prompt persistence
 
 #### If Results Show Limited Effects
-- Test alternative scaffold formulations
+- Test alternative system prompt formulations
 - Investigate prompt-specific vs general effects
 - Examine model architecture dependencies
 - Explore alternative intervention approaches
